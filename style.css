@@ -49,15 +49,13 @@ h1{
     color: rgb(2, 2, 2);
     margin-left: 20px;
     margin-right: 15px;
-    margin-top: 15vh;
+    margin-top: 30vh;
     text-align: justify;
+    font-size: 23px;
 }
 #myZodiac{
     position: absolute;
-    top: 70vh;
-    left: 40vh;
-}
-.aries{
-    width: 100%;
-    height: 100%;
+    top: 30vh;
+    right: 40vh;
+    
 }
